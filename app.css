@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+}
+main {
+  height: 11in;
+  width: 8.5in;
+  margin: 5em;
+}
+
+@page {
+  size: A4;
+  /* Supresses system print dialog padding */
+  margin: 0;
+}
+@media print {
+  body,
+  main {
+    background-color: red;
+    margin: 1px;
+    padding: 0;
+  }
+}
+
+/* SVG styles */
+#sign {
+  height: 100%;
+  width: 100%;
+
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  /* TODO figure out how to get 50mm effective height more easily */
+  font-size: 64px;
+  fill: #fff;
+}
+#route-name {
+  font-size: 50px;
+}
+.section {
+  overflow-y: visible;
+}
+.destination {
+  white-space: pre;
+}
+.has-subtext > tspan:last-child {
+  font-size: 50px;
+}
+.arrow-up {
+  transform: rotate(90deg);
+  transform-origin: center center;
+  transform-box: fill-box;
+}
+.arrow-right {
+  transform: rotate(180deg);
+  transform-origin: center center;
+  transform-box: fill-box;
+}
+.arrow-down {
+  transform: rotate(270deg);
+  transform-origin: center center;
+  transform-box: fill-box;
+}

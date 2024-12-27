@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80mm"
+   height="65mm"
+   viewBox="0 0 80 65"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="arrow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.3"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="151.27034"
+     inkscape:cy="116.04127"
+     inkscape:document-units="mm"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     showguides="true"
+     inkscape:window-width="2048"
+     inkscape:window-height="1083"
+     inkscape:window-x="2560"
+     inkscape:window-y="189"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.5"
+       spacingy="0.5"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="8,32.499999"
+       orientation="0,-1"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.0000001,40.499999"
+       orientation="0.70710678,-0.70710678"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8,24.500001"
+       orientation="-0.70710678,-0.70710678"
+       id="guide7"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="40.5,37.999999"
+       orientation="0,-1"
+       id="guide8"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="40.5,26.999999"
+       orientation="0,-1"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="21.499999,52.999999"
+       orientation="0.70710678,-0.70710678"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="21.5,41.999998"
+       orientation="-0.70710678,-0.70710678"
+       id="guide11"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="40.5,71.999998"
+       orientation="-0.70710678,-0.70710678"
+       id="guide12"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="40.5,22.999998"
+       orientation="0.70710678,-0.70710678"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="40.5,32.499999"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32.5,32.499999"
+       orientation="1,0"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="21.5,32.499999"
+       orientation="1,0"
+       id="guide3"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <!-- <path
+     style="fill:#ffffff;stroke-width:0.264583;fill-opacity:1;stroke:none"
+     d="M 34.999998,0 0,34.999998 l 34.999998,34.999999 8,-8 -20.999999,-21 L 79.999998,41 V 29 H 21.999999 L 42.999998,7.9999998 Z"
+     id="path13" /> -->
+  <polygon
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     points="40.5,57 21.5,38 80,38 80,27 21.5,27 40.5,8 32.5,0 0,32.5 32.5,65 "
+     id="arrow" />
+</svg>

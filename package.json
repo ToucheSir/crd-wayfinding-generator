@@ -1,0 +1,23 @@
+{
+  "name": "crd-wayfinding-creator",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "esbuild app.ts app.css --bundle --sourcemap --outdir=dist --watch",
+    "build": "esbuild app.ts app.css --bundle --sourcemap --outdir=dist --minify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToucheSir/crd-wayfinding-generator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ToucheSir/crd-wayfinding-generator/issues"
+  },
+  "homepage": "https://github.com/ToucheSir/crd-wayfinding-generator#readme",
+  "devDependencies": {
+    "esbuild": "^0.24.2"
+  }
+}
