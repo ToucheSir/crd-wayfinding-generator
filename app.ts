@@ -60,9 +60,12 @@ class DecisionSection {
     "decision-section-template"
   ) as HTMLTemplateElement;
   #container: SVGGElement;
+  heightValidator: (add: number) => boolean;
   destinations: (typeof testSections)[0][];
 
-  constructor() {}
+  constructor(heightValidator: typeof this.heightValidator) {
+    this.heightValidator = heightValidator;
+  }
 
   mount(root: SVGElement) {
     const container = DecisionSection.template.content.cloneNode(
